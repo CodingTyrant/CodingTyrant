@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodingTyrant
 - 👀 I’m interested in Computer programming language
-- 🌱 I’m currently learning C (programming language)
+- 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
